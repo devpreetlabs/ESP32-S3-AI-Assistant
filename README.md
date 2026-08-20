@@ -1,4 +1,4 @@
-# 🤖 ESP32-S3 AI Assistant
+# 🤖 ESP32-S3 AI Assistant [PROJECT CURRENTLY DELAYED (will be locked in for development after the V4 version of NOVA)]
 
 A voice-based AI assistant project built around the **Seeed Studio XIAO ESP32-S3**.
 
